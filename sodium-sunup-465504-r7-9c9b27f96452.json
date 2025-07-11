@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sodium-sunup-465504-r7",
+  "private_key_id": "9c9b27f9645290f6466279487ce7591214f1c528",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcyc4ecJwW+VfF\naP75ftH9zIOxvjozg0YvAxsJu2cGXLDim4k1cxjLVI260hb6IAf//oUDjcNU917k\nXgA/AYwCuujBK+lbHcor72XHuQPzlr4n7as7ZQiBsXOnhYq2qucUGN1daMY+3+O2\nVuzRrx1BmiqdE0Pywj7F31HOfUQERPWeRzBu88/ME1JNmKY07ehQAWXvcNhN+gyq\nGmmxP7ee2+xSNiQUZmK6NpUUN4JYAoGVWdH8V25DCqlJ6R8znninlJpE8f1nzTDx\nnjDtF0PwCyHyRFmTbChCwa8799u3z/ff+oFwEn4memSHXcyZ7hNGcSnvfXrsoj0K\n1+4Wpyb1AgMBAAECggEAG0tib5gpBDLaHcq+gI6cXfOJhZrZJPiYcjy3K0WNlOT0\nAi8TftOPoG4S0lAaoeaLnfwgCdNXCuaZhWX74vwQ9LS3KlHLqQoRlP5zGIbT8kbu\nyaKtaYSYK4PJ34L29//ehHgjqUxBHtb5HFgbmBFFJZOCEaA19v/rz6Sl6C2Udq2I\npd6x6mZ++jfGrpBAmIIucxnJFLgYn1oqzamjoKha5oCbIdYAKBEOSR3GEI5pEB8j\nlsHX04ir7aJMWujh+GvQ+ZZHCDhazDyppwQdJ6sI3OKcM5UNn76nUBkIhm7ntdOn\nd9sbXDL4NqX26tU9mWD50Oyo86Y9XblFt4HgZltrAQKBgQDX2xBfwQy10Q+LxEkE\nOrnnYgNxBdMLzuOcBc5a+gv9CBkSLPwhUcgbHinuaxbJbfv9fTHZdagpmWBCepOS\n2JJrbWgNmxU6vxCN6PqosUzuyRbmDmDLdEtf1D50Y9mjftGuZoX3l8rleRHbT53/\nAxnJLj/gYkwIoLpJzoMXjq6yNQKBgQC58odw9HCePTDyQuDZw8AFNYU7371RL+36\n44TGesxXrvu4JCtE1wKSU166CkDLnam3l8a1prFvMvvUtWmWpegNMhzrHj3lW6xI\nHtXszraB8Olk7P5AlDSeAZa3Agu6Japn0npeGwEQK6pV0N2RtaWReS7joRd8IBeI\nO1Su2tE5wQKBgCLUj2TUEsf3zwlfh+St0Teb4jBHn1FldebELRMTDAItX1ZGefyq\nZJ6zlFKLZybjn2i83eFYEeV8gULY4p0sYxwAkGy5nIhZMkOj12aHDYHuYsqGgWny\n/wKcjeNcBU9TdGQu2OklzjCPA6mexEDU8EE9PENpuRkfTlAAibiwZlINAoGAHLGJ\nJuwBaNmmcOvTCKeFPQiKO7gF3b5YqctsFLikSa+N1ld2edP36J6G0ox8fS8iHluE\nZUmIvdEPPT6VQZLuYQLnpXxwLrFbv3FKr5UiYqDLUzCi91InYG58VFczehEP35+C\nFH10R4uFaGKnnjF6kB00GBomppfJKdOF+Ml5WcECgYApk9MAMsVegl1/fErhQNjB\njvM97QytKv5Gjalf0sIqu+LwrHR4a+4opwI8zwccLOLz2op4rx19s2GASctrxP7Z\nLC9H9EeLamFXZMCCtmtRXHF8ancXrMQ2jdP1UdDxx2v0Wb+ooYsmtjIeY+HjWCvH\nob4Rvmklr+ltgDubdNklkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai-rag-bot@sodium-sunup-465504-r7.iam.gserviceaccount.com",
+  "client_id": "113410787166598408377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai-rag-bot%40sodium-sunup-465504-r7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
